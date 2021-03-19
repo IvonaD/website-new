@@ -1,0 +1,68 @@
+body {
+  background-color: #F8E5DF;
+  margin: 0;
+  text-align: center;
+  padding-top: 100px;
+}
+h1 {
+  font-family: Yesteryear, cursive;
+  font-size: 45px;
+  position: absolute;
+  top: 7px;
+  width: 70%;
+  margin: 0 auto 0 auto
+}
+h3 {
+  font-family: Old Standard TT, serif;
+  font-size: 26px;
+  position:absolute;
+  left: 880px;
+  bottom: 330px;
+}
+h2 {
+  font-family: Old Standard TT, serif;
+  font-size: 28px;
+  font-weight: bolder;
+}
+.bottom-cloud {
+  position: absolute;
+  left: 128px;
+  bottom: 300px;
+}
+.top-cloud {
+  position:absolute;
+  top: 15px;
+  left: 850px;
+}
+.profile-pic {
+  border-radius: 50%;
+  position: relative;
+  width: 210px;
+  height: auto;
+}
+.profile-pic:hover {
+  width: 300px;
+}
+a {
+  font-family: Old Standard TT, serif;
+  font-size: 16px;
+}
+a:hover{
+  font-size: 20px;
+}
+.table-2 {
+  font-family: Old Standard TT, serif;
+  font-size: 16px;
+  position: relative;
+  left: 420px;
+}
+p {
+  font-family: Old Standard TT, serif;
+  font-size: 16px;
+}
+table {
+  font-family: Old Standard TT, serif;
+  font-size: 16px;
+  position: relative;
+  left: 420px;
+}
