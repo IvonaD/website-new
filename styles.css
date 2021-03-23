@@ -6,8 +6,9 @@ body {
 }
 h1 {
   font-family: Sacramento, cursive;
-  font-size: 62px;
+  font-size: 58px;
   font-weight: bolder;
+  font-style: italic;
   position: absolute;
   top: 16px;
   width: 60%;
