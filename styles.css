@@ -5,10 +5,18 @@ body {
   padding-top: 100px;
 }
 @media only screen and (max-width: 600px) {
-  /* For mobile phones: */
-  [class*="col-"] {
+  
+  [class*="col-"] }
     width: 100%;
   }
+ @media only screen and (max-width: 600px) {
+  .profile-pic {
+  border-radius: 50%;
+  position: relative;
+  width: 120px;
+  height: auto;
+  }
+}
 h1 {
   font-family: Sacramento, cursive;
   font-size: 60px;
