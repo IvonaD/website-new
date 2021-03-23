@@ -32,6 +32,10 @@ hr {
   border-width: 7px;
   width:20%;
 }
+.responsive {
+  width: 100%;
+  height: auto;
+}
 .bottom-cloud {
   position: absolute;
   left: 128px;
