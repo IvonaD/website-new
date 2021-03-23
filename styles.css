@@ -5,12 +5,13 @@ body {
   padding-top: 100px;
 }
 h1 {
-  font-family: Yesteryear, cursive;
-  font-size: 45px;
+  font-family: Sacramento, cursive;
+  font-size: 62px;
+  font-weight: bolder;
   position: absolute;
-  top: 7px;
-  width: 70%;
-  margin: 0 auto 0 auto
+  top: 16px;
+  width: 60%;
+  margin-top: 50px;
 }
 h3 {
   font-family: Old Standard TT, serif;
@@ -23,6 +24,12 @@ h2 {
   font-family: Old Standard TT, serif;
   font-size: 28px;
   font-weight: bolder;
+}
+hr {
+  border-style: dotted none none;
+  border-color: grey;
+  border-width: 7px;
+  width:20%;
 }
 .bottom-cloud {
   position: absolute;
