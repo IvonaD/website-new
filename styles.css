@@ -9,11 +9,11 @@ body {
   [class*="col-"] }
     width: 100%;
   }
- @media only screen and (max-width: 600px) {
+@media only screen and (max-width: 600px) {
   .profile-pic {
   border-radius: 50%;
   position: relative;
-  width: 120px;
+  width: 100px;
   height: auto;
   }
 }
