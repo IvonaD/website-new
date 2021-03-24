@@ -53,11 +53,6 @@ hr {
   width: 210px;
   height: auto;
 }
-@media only screen and (max-width: 600px) {
-.profile-pic {
-  width: 130px;
-  }
-}
 
 }
 .profile-pic:hover {
