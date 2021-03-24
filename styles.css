@@ -55,7 +55,7 @@ hr {
 }
 @media only screen and (max-width: 600px) {
 .profile-pic {
-  width: 180px;
+  width: 130px;
   }
 }
 
@@ -63,8 +63,8 @@ hr {
  div.h1 {
     font-size: 10px;
     position: absolute;
-    top: 6px;
-    width: 30%;
+    top: 4px;
+    width: 15%;
   }
 }
 .profile-pic:hover {
